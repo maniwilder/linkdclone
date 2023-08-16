@@ -1,0 +1,10 @@
+.loginpage-bg {
+    background-color: rgb(236, 236, 236);
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
